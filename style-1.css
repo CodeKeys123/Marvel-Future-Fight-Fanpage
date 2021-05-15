@@ -1,0 +1,146 @@
+body{
+	margin: 0px;
+
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background:none;
+
+
+}
+li{
+	float: right;
+	padding: 30px;
+
+}
+li a{
+	display: block;
+	color: orange;
+	text-decoration: none;
+	padding: 14px 16px;
+	font-family: 'Acme', sans-serif;
+	font-size: 25px;
+
+
+}
+li a:hover{
+	background-color:purple;
+	color: white;
+	border-color: 1px solid red;
+
+}
+.Fight{
+	float: left;
+	padding: 14px 16px;
+	font-family: 'Luckiest Guy', sans-serif;
+	font-size: 40px;
+	background-position: center center;
+	color: Black;
+	font-weight: 1000;
+	padding-left: 500px;
+	cursor: cell;
+
+}
+
+.bottom-img{
+
+
+	 padding-right: 10;
+	 width: 1450px;
+	height: 1000px;
+  
+	
+
+}
+.Game{
+	padding-right: 200px;
+	padding-top: 100px;
+}
+p{
+  font-family: 'Acme', sans-serif;
+  font-size: 25px;
+}
+.Heading{
+	padding-top: 1px;
+	size: 105px;
+	position: top, center, center;
+}
+.Table{
+	background: orange;
+	padding-bottom: 5px;
+	height: 1000px;
+}
+table{
+	padding-left: 30px;
+	font-size: 50px;
+}
+button{
+	font-size: 25px;
+	color: purple;
+}
+.Dropdown-Content{
+	display: none;
+	position: absolute;
+	background: #f1f1f1;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0 0 0 .2);
+	z-index: 1;
+
+
+
+}
+.Dropdown-Content p{
+color: black;
+padding: 25px 26px;
+text-decoration: none;
+display: block;
+}
+
+.Dropdown-Content p:hover{
+	background: #ddd;
+
+
+}
+.Dropdown:hover .Dropdown-Content{
+	display: block;
+
+
+
+}
+.Dropdown:hover .Dropbtn{
+	background-color: #3e8e41;
+}
+.Dropbtn{
+	background-color: black;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border:white;
+	}
+	.Dropdown-Content a{
+color: black;
+padding: 25px 26px;
+text-decoration: none;
+display: block;
+
+}
+
+.Dropdown{
+	padding-left: 1000px;
+
+}
+.Next{
+	background-color:  skyblue;
+	color: ivory;
+	text-decoration: none;
+}
+
+
+
+
+
+
+

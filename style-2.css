@@ -1,0 +1,58 @@
+p{
+ font-family: 'Acme', sans-serif;
+	font-size: 25px;
+}
+.background-image{
+	max-width: 100%;
+	height: 100vh;
+	background-size: cover;
+	background: url(https://static2.cbrimages.com/wordpress/wp-content/uploads/2018/09/arachknight-marvel-future-fight-header.jpg);
+	background-position: center, center;
+	background-repeat:no-repeat;	
+}
+button{
+	font-size: 25px;
+	color: purple;
+}
+h1{
+	float: left;
+	padding: 14px 16px;
+	font-family: 'Luckiest Guy', sans-serif;
+	font-size: 40px;
+	
+	color: orange;
+	font-weight: 1000;
+	padding-left: 250px;
+	cursor: wait;
+}
+
+table{
+
+	background: orange;
+	border-color: purple;
+	 
+}
+td{
+	border-color: purple;
+	font-size: 20px;
+
+}
+tr{
+	border-color: purple;
+}
+.form{
+	background: url(https://media.comicbook.com/2015/08/screen-shot-2015-08-26-at-93025-am-149092.png);
+
+	background-size: cover;
+background-position: center, center;
+	background-repeat:no-repeat;
+}
+option{
+	font-size: 20px;
+}
+.Back{
+	background-color:  skyblue;
+	color: ivory;
+	text-decoration: none;
+	
+}
